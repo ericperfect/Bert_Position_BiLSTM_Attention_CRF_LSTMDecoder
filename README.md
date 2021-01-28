@@ -1,4 +1,2 @@
-# 毕业设计
+###毕业设计：
 基于Bert_Position_BiLSTM_Attention_CRF_LSTMDecoder的法律文书要素识别
-# 实验结果
-![img.png](img.png)
